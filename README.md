@@ -12,11 +12,13 @@ This project is a simple personal profile webpage created using **HTML**, **CSS*
 
 ## 📁 Project Structure
 my-profile/
+
 │
-├── index.html # Main HTML file
-├── style.css # Styling for the web page
-├── script.js # JavaScript interaction
-└── README.md # Project overview and usage
+
+├── index.html     # Main HTML file
+├── style.css      # Styling for the web page
+├── script.js      # JavaScript interaction
+└── README.md      # Project overview and usage
 
 ---
 
